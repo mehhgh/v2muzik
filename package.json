@@ -1,0 +1,19 @@
+{
+  "name": "hera",
+  "version": "4.0.2",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^4.0.2",
+    "express": "^4.17.1",
+    "yt-search": "^2.8.0"
+  }
+}
